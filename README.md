@@ -39,13 +39,15 @@ The project relies on the following Python libraries:
 - `seaborn`
 - `sklearn`
 
-You can install the required packages using:
-```bash
-pip install -r requirements.txt 
-
 ## Accuracy and Loss Graphs
 
 
 ![Accuracy g](https://user-images.githubusercontent.com/75358720/150759562-1f60fe55-f36e-43c8-9b75-9a36100cbf98.jpg)
 ![loss graph](https://user-images.githubusercontent.com/75358720/150759589-dceb2e2f-65f0-43b0-ac36-0eb589e1fb05.jpg)
+
+You can install the required packages using:
+```bash
+pip install -r requirements.txt 
+
+
 
